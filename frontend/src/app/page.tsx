@@ -3,6 +3,7 @@ import DarkVeil from '@/components/DarkVeil'
 import HeroSection from '@/components/HeroSection'
 import ScrollReveal from '@/components/ScrollReveal'
 import EnhancedSearchSection from '@/components/EnhancedSearchSection'
+import ResultsSection from '@/components/ResultsSection'
 import Wireframe from '@/components/Wireframe'
 import { SearchProvider } from '@/contexts/SearchContext'
 
@@ -48,7 +49,11 @@ export default function Home() {
             <EnhancedSearchSection />
           </div>
           
-          {/* Wireframe Content */}
+          {/* Results Section */}
+          <ResultsSection />
+          
+          {/* Wireframe Content - Hidden when searching/results shown is managed within Wireframe usually, 
+              but we can wrap it or let it stay as secondary content */}
           <div className="mt-8">
             <Wireframe />
           </div>

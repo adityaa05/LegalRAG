@@ -50,7 +50,7 @@ async def startup_event():
     
     print("Connecting to ChromaDB...")
     # Use absolute path from project root
-    db_path = Path(__file__).parent.parent.parent / "data" / "chroma_db"
+    db_path = Path(__file__).parent.parent.parent / "data" / "chroma_db_manual"
     chroma_client = chromadb.PersistentClient(path=str(db_path))
     collection = chroma_client.get_collection("indian_laws")
     
