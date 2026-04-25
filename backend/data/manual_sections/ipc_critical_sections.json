@@ -1,0 +1,1549 @@
+[
+  {
+    "section_number": "302",
+    "section_title": "Punishment for murder",
+    "content": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+    "offense_type": "homicide",
+    "punishment_severity": "severe",
+    "maximum_punishment_years": 1000,
+    "minimum_punishment_years": 999,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "murder",
+      "death",
+      "killing",
+      "homicide"
+    ]
+  },
+  {
+    "section_number": "304A",
+    "section_title": "Causing death by negligence",
+    "content": "Whoever causes the death of any person by doing any rash or negligent act not amounting to culpable homicide, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "offense_type": "negligence",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 2,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": true,
+    "keywords": [
+      "death",
+      "negligence",
+      "rash",
+      "accident",
+      "negligent"
+    ]
+  },
+  {
+    "section_number": "300",
+    "section_title": "Murder",
+    "content": "Except in the cases hereinafter excepted, culpable homicide is murder, if the act by which the death is caused is done with the intention of causing death, or if it is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused, or if it is done with the intention of causing bodily injury to any person and the bodily injury intended to be inflicted is sufficient in the ordinary course of nature to cause death, or if the person committing the act knows that it is so imminently dangerous that it must, in all probability, cause death or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death or such injury as aforesaid.",
+    "offense_type": "homicide",
+    "punishment_severity": "severe",
+    "maximum_punishment_years": 1000,
+    "minimum_punishment_years": 999,
+    "involves_imprisonment": true,
+    "involves_fine": false,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "murder",
+      "death",
+      "culpable homicide",
+      "intention",
+      "killing"
+    ]
+  },
+  {
+    "section_number": "304",
+    "section_title": "Punishment for culpable homicide not amounting to murder",
+    "content": "Whoever commits culpable homicide not amounting to murder shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine, if the act by which the death is caused is done with the intention of causing death, or of causing such bodily injury as is likely to cause death. In other cases, shall be punished with imprisonment of either description for a term which may extend to ten years, or with fine, or with both.",
+    "offense_type": "homicide",
+    "punishment_severity": "high",
+    "maximum_punishment_years": 999,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "culpable homicide",
+      "death",
+      "killing",
+      "murder"
+    ]
+  },
+  {
+    "section_number": "307",
+    "section_title": "Attempt to murder",
+    "content": "Whoever does any act with such intention or knowledge, and under such circumstances that, if he by that act caused death, he would be guilty of murder, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine; and if hurt is caused to any person by such act, the offender shall be liable either to imprisonment for life, or to such punishment as is hereinbefore mentioned.",
+    "offense_type": "homicide",
+    "punishment_severity": "high",
+    "maximum_punishment_years": 999,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "attempt",
+      "murder",
+      "death",
+      "killing"
+    ]
+  },
+  {
+    "section_number": "279",
+    "section_title": "Rash driving or riding on a public way",
+    "content": "Whoever drives any vehicle, or rides, on any public way in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any other person, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.",
+    "offense_type": "traffic",
+    "punishment_severity": "low",
+    "maximum_punishment_years": 0.5,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": true,
+    "keywords": [
+      "rash driving",
+      "negligent",
+      "vehicle",
+      "accident",
+      "traffic"
+    ]
+  },
+  {
+    "section_number": "337",
+    "section_title": "Causing hurt by act endangering life or personal safety of others",
+    "content": "Whoever causes hurt to any person by doing any act so rashly or negligently as to endanger human life, or the personal safety of others, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five hundred rupees, or with both.",
+    "offense_type": "negligence",
+    "punishment_severity": "low",
+    "maximum_punishment_years": 0.5,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": true,
+    "keywords": [
+      "hurt",
+      "rash",
+      "negligent",
+      "injury",
+      "accident"
+    ]
+  },
+  {
+    "section_number": "338",
+    "section_title": "Causing grievous hurt by act endangering life or personal safety of others",
+    "content": "Whoever causes grievous hurt to any person by doing any act so rashly or negligently as to endanger human life, or the personal safety of others, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine which may extend to one thousand rupees, or with both.",
+    "offense_type": "negligence",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 2,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": true,
+    "keywords": [
+      "grievous hurt",
+      "rash",
+      "negligent",
+      "injury",
+      "accident"
+    ]
+  },
+  {
+    "section_number": "379",
+    "section_title": "Punishment for theft",
+    "content": "Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "offense_type": "property",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 3,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": true,
+    "keywords": [
+      "theft",
+      "stolen",
+      "property",
+      "stealing"
+    ]
+  },
+  {
+    "section_number": "380",
+    "section_title": "Theft in dwelling house, etc.",
+    "content": "Whoever commits theft in any building, tent or vessel, which building, tent or vessel is used as a human dwelling, or used for the custody of property, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "offense_type": "property",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 7,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "theft",
+      "dwelling",
+      "burglary",
+      "house",
+      "property"
+    ]
+  },
+  {
+    "section_number": "323",
+    "section_title": "Punishment for voluntarily causing hurt",
+    "content": "Whoever, except in the case provided for by section 334, voluntarily causes hurt, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to one thousand rupees, or with both.",
+    "offense_type": "violence",
+    "punishment_severity": "low",
+    "maximum_punishment_years": 1,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": true,
+    "keywords": [
+      "hurt",
+      "assault",
+      "injury",
+      "violence",
+      "attack"
+    ]
+  },
+  {
+    "section_number": "324",
+    "section_title": "Voluntarily causing hurt by dangerous weapons or means",
+    "content": "Whoever, except in the case provided for by section 334, voluntarily causes hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "offense_type": "violence",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 3,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": true,
+    "keywords": [
+      "hurt",
+      "weapon",
+      "assault",
+      "dangerous",
+      "injury"
+    ]
+  },
+  {
+    "section_number": "325",
+    "section_title": "Punishment for voluntarily causing grievous hurt",
+    "content": "Whoever, except in the case provided for by section 335, voluntarily causes grievous hurt, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "offense_type": "violence",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 7,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "grievous hurt",
+      "assault",
+      "serious injury",
+      "violence"
+    ]
+  },
+  {
+    "section_number": "326",
+    "section_title": "Voluntarily causing grievous hurt by dangerous weapons or means",
+    "content": "Whoever, except in the case provided for by section 335, voluntarily causes grievous hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "offense_type": "violence",
+    "punishment_severity": "high",
+    "maximum_punishment_years": 999,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "grievous hurt",
+      "weapon",
+      "dangerous",
+      "assault",
+      "serious injury"
+    ]
+  },
+  {
+    "section_number": "420",
+    "section_title": "Cheating and dishonestly inducing delivery of property",
+    "content": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "offense_type": "fraud",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 7,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "cheating",
+      "fraud",
+      "deception",
+      "dishonest",
+      "property"
+    ]
+  },
+  {
+    "section_number": "415",
+    "section_title": "Cheating",
+    "content": "Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property, is said to 'cheat'.",
+    "offense_type": "fraud",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 1,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": false,
+    "keywords": [
+      "cheating",
+      "fraud",
+      "deception",
+      "dishonest"
+    ]
+  },
+  {
+    "section_number": "499",
+    "section_title": "Defamation",
+    "content": "Whoever, by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said, except in the cases hereinafter expected, to defame that person.",
+    "offense_type": "defamation",
+    "punishment_severity": "low",
+    "maximum_punishment_years": 2,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": false,
+    "keywords": [
+      "defamation",
+      "reputation",
+      "slander",
+      "libel",
+      "false accusation"
+    ]
+  },
+  {
+    "section_number": "500",
+    "section_title": "Punishment for defamation",
+    "content": "Whoever defames another shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both.",
+    "offense_type": "defamation",
+    "punishment_severity": "low",
+    "maximum_punishment_years": 2,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": false,
+    "keywords": [
+      "defamation",
+      "punishment",
+      "reputation",
+      "slander"
+    ]
+  },
+  {
+    "section_number": "375",
+    "section_title": "Rape",
+    "content": "A man is said to commit 'rape' if he has sexual intercourse with a woman under circumstances falling under any of the seven following descriptions: against her will, without her consent, with her consent obtained by putting her or any person in whom she is interested in fear of death or of hurt, with her consent when the man knows that he is not her husband and that her consent is given because she believes that he is another man to whom she is or believes herself to be lawfully married, with her consent when, at the time of giving such consent, by reason of unsoundness of mind or intoxication or the administration by him personally or through another of any stupefying or unwholesome substance, she is unable to understand the nature and consequences of that to which she gives consent, with or without her consent when she is under eighteen years of age.",
+    "offense_type": "sexual",
+    "punishment_severity": "severe",
+    "maximum_punishment_years": 999,
+    "minimum_punishment_years": 7,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "rape",
+      "sexual assault",
+      "sexual intercourse",
+      "consent"
+    ]
+  },
+  {
+    "section_number": "376",
+    "section_title": "Punishment for rape",
+    "content": "Whoever commits rape shall be punished with rigorous imprisonment of either description for a term which shall not be less than seven years, but which may extend to imprisonment for life, and shall also be liable to fine.",
+    "offense_type": "sexual",
+    "punishment_severity": "severe",
+    "maximum_punishment_years": 999,
+    "minimum_punishment_years": 7,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "rape",
+      "punishment",
+      "sexual assault",
+      "imprisonment"
+    ]
+  },
+  {
+    "section_number": "354",
+    "section_title": "Assault or criminal force to woman with intent to outrage her modesty",
+    "content": "Whoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment of either description for a term which shall not be less than one year but which may extend to five years, and shall also be liable to fine.",
+    "offense_type": "sexual",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 5,
+    "minimum_punishment_years": 1,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "assault",
+      "modesty",
+      "woman",
+      "sexual harassment",
+      "outrage"
+    ]
+  },
+  {
+    "section_number": "185",
+    "section_title": "Driving by a drunken person or by a person under the influence of drugs",
+    "content": "Whoever, while driving, or attempting to drive, a motor vehicle has, in his blood, alcohol exceeding 30 mg. per 100 ml. of blood detected in a test by a breath analyser, or is under the influence of a drug to such an extent as to be incapable of exercising proper control over the vehicle, shall be punishable for the first offence with imprisonment for a term which may extend to six months, or with fine which may extend to two thousand rupees, or with both; and for a second or subsequent offence, if committed within three years of the commission of the previous similar offence, with imprisonment for a term which may extend to two years, or with fine which may extend to three thousand rupees, or with both.",
+    "offense_type": "traffic",
+    "punishment_severity": "low",
+    "maximum_punishment_years": 2,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": true,
+    "keywords": [
+      "drunk driving",
+      "alcohol",
+      "driving",
+      "intoxicated",
+      "drunken",
+      "drugs"
+    ]
+  },
+  {
+    "section_number": "184",
+    "section_title": "Driving dangerously",
+    "content": "Whoever drives a motor vehicle at a speed or in a manner which is dangerous to the public, having regard to all the circumstances of the case including the nature, condition and use of the place where the vehicle is driven and the amount of traffic which actually is at the time or which might reasonably be expected to be in the place, shall be punishable for the first offence with imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both, and for any second or subsequent offence if committed within three years of the commission of a previous similar offence with imprisonment for a term which may extend to two years, or with fine which may extend to two thousand rupees, or with both.",
+    "offense_type": "traffic",
+    "punishment_severity": "low",
+    "maximum_punishment_years": 2,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": true,
+    "keywords": [
+      "dangerous driving",
+      "rash driving",
+      "speed",
+      "traffic",
+      "vehicle"
+    ]
+  },
+  {
+    "section_number": "100",
+    "section_title": "Right of private defence of the body",
+    "content": "The right of private defence of the body extends to the voluntary causing of death or of any other harm to the assailant, if the offence which occasions the exercise of the right be of any of the descriptions hereinafter enumerated, namely: such an assault as may reasonably cause the apprehension that death will otherwise be the consequence of such assault; such an assault as may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such assault; an assault with the intention of committing rape; an assault with the intention of gratifying unnatural lust; an assault with the intention of kidnapping or abducting; an assault with the intention of wrongfully confining a person, under circumstances which may reasonably cause him to apprehend that he will be unable to have recourse to the public authorities for his release.",
+    "offense_type": "defense",
+    "punishment_severity": "unknown",
+    "maximum_punishment_years": 0,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": false,
+    "involves_fine": false,
+    "bailable": true,
+    "cognizable": false,
+    "keywords": [
+      "self defense",
+      "private defence",
+      "assault",
+      "protection",
+      "right"
+    ]
+  },
+  {
+    "section_number": "425",
+    "section_title": "Mischief",
+    "content": "Whoever with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or to any person, causes the destruction of any property, or any such change in any property or in the situation thereof as destroys or diminishes its value or utility, or affects it injuriously, commits 'mischief'.",
+    "offense_type": "property",
+    "punishment_severity": "low",
+    "maximum_punishment_years": 3,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": false,
+    "keywords": [
+      "mischief",
+      "property damage",
+      "destruction",
+      "damage"
+    ]
+  },
+  {
+    "section_number": "426",
+    "section_title": "Punishment for mischief",
+    "content": "Whoever commits mischief shall be punished with imprisonment of either description for a term which may extend to three months, or with fine, or with both.",
+    "offense_type": "property",
+    "punishment_severity": "low",
+    "maximum_punishment_years": 0.25,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": false,
+    "keywords": [
+      "mischief",
+      "punishment",
+      "property damage"
+    ]
+  },
+  {
+    "section_number": "427",
+    "section_title": "Mischief causing damage to the amount of fifty rupees",
+    "content": "Whoever commits mischief and thereby causes loss or damage to the amount of fifty rupees or upwards, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "offense_type": "property",
+    "punishment_severity": "low",
+    "maximum_punishment_years": 2,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": false,
+    "keywords": [
+      "mischief",
+      "property damage",
+      "damage",
+      "loss"
+    ]
+  },
+  {
+    "section_number": "406",
+    "section_title": "Punishment for criminal breach of trust",
+    "content": "Whoever commits criminal breach of trust shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "offense_type": "fraud",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 3,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": false,
+    "keywords": [
+      "breach of trust",
+      "trust",
+      "fraud",
+      "dishonest"
+    ]
+  },
+  {
+    "section_number": "405",
+    "section_title": "Criminal breach of trust",
+    "content": "Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or willfully suffers any other person so to do, commits 'criminal breach of trust'.",
+    "offense_type": "fraud",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 3,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": false,
+    "keywords": [
+      "breach of trust",
+      "misappropriation",
+      "dishonest",
+      "trust"
+    ]
+  },
+  {
+    "section_number": "506",
+    "section_title": "Punishment for criminal intimidation",
+    "content": "Whoever commits the offence of criminal intimidation shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both; if threat be to cause death or grievous hurt, etc., shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+    "offense_type": "violence",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 7,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": false,
+    "keywords": [
+      "intimidation",
+      "threat",
+      "criminal intimidation",
+      "threatening"
+    ]
+  },
+  {
+    "section_number": "509",
+    "section_title": "Word, gesture or act intended to insult the modesty of a woman",
+    "content": "Whoever, intending to insult the modesty of any woman, utters any word, makes any sound or gesture, or exhibits any object, intending that such word or sound shall be heard, or that such gesture or object shall be seen, by such woman, or intrudes upon the privacy of such woman, shall be punished with simple imprisonment for a term which may extend to three years, and also with fine.",
+    "offense_type": "sexual",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 3,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": true,
+    "keywords": [
+      "modesty",
+      "insult",
+      "woman",
+      "harassment",
+      "sexual harassment"
+    ]
+  },
+  {
+    "section_number": "363",
+    "section_title": "Punishment for kidnapping",
+    "content": "Whoever kidnaps any person from India or from lawful guardianship, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "offense_type": "kidnapping",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 7,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "kidnapping",
+      "abduction",
+      "lawful guardianship"
+    ]
+  },
+  {
+    "section_number": "364",
+    "section_title": "Kidnapping or abducting in order to murder",
+    "content": "Whoever kidnaps or abducts any person in order that such person may be murdered or may be so disposed of as to be put in danger of being murdered, shall be punished with imprisonment for life or rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+    "offense_type": "kidnapping",
+    "punishment_severity": "severe",
+    "maximum_punishment_years": 999,
+    "minimum_punishment_years": 10,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "kidnapping",
+      "abduction",
+      "murder",
+      "danger"
+    ]
+  },
+  {
+    "section_number": "365",
+    "section_title": "Kidnapping or abducting with intent secretly and wrongfully to confine person",
+    "content": "Whoever kidnaps or abducts any person with intent to cause that person to be secretly and wrongfully confined, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "offense_type": "kidnapping",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 7,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "kidnapping",
+      "abduction",
+      "confinement",
+      "wrongful"
+    ]
+  },
+  {
+    "section_number": "366",
+    "section_title": "Kidnapping, abducting or inducing woman to compel her marriage, etc.",
+    "content": "Whoever kidnaps or abducts any woman with intent that she may be compelled, or knowing it to be likely that she will be compelled, to marry any person against her will, or in order that she may be forced or seduced to illicit intercourse, or knowing it to be likely that she will be forced or seduced to illicit intercourse, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "offense_type": "kidnapping",
+    "punishment_severity": "high",
+    "maximum_punishment_years": 10,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "kidnapping",
+      "woman",
+      "marriage",
+      "forced",
+      "seduction"
+    ]
+  },
+  {
+    "section_number": "383",
+    "section_title": "Extortion",
+    "content": "Whoever intentionally puts any person in fear of any injury to that person, or to any other, and thereby dishonestly induces the person so put in fear to deliver to any person any property or valuable security, or anything signed or sealed which may be converted into a valuable security, commits 'extortion'.",
+    "offense_type": "extortion",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 3,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": false,
+    "keywords": [
+      "extortion",
+      "fear",
+      "threat",
+      "property",
+      "dishonest"
+    ]
+  },
+  {
+    "section_number": "384",
+    "section_title": "Punishment for extortion",
+    "content": "Whoever commits extortion shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "offense_type": "extortion",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 3,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": false,
+    "keywords": [
+      "extortion",
+      "punishment"
+    ]
+  },
+  {
+    "section_number": "385",
+    "section_title": "Putting person in fear of injury in order to commit extortion",
+    "content": "Whoever, in order to the committing of extortion, puts any person in fear, or attempts to put any person in fear, of any injury, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "offense_type": "extortion",
+    "punishment_severity": "low",
+    "maximum_punishment_years": 2,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": false,
+    "keywords": [
+      "extortion",
+      "fear",
+      "threat",
+      "injury"
+    ]
+  },
+  {
+    "section_number": "390",
+    "section_title": "Robbery",
+    "content": "In all robbery there is either theft or extortion. When theft is robbery: Theft is 'robbery' if, in order to the committing of the theft, or in committing the theft, or in carrying away or attempting to carry away property obtained by the theft, the offender, for that end, voluntarily causes or attempts to cause to any person death or hurt or wrongful restraint, or fear of instant death or of instant hurt, or of instant wrongful restraint. When extortion is robbery: Extortion is 'robbery' if the offender, at the time of committing the extortion, is in the presence of the person put in fear, and commits the extortion by putting that person in fear of instant death, of instant hurt, or of instant wrongful restraint to that person or to some other person, and, by so putting in fear, induces the person so put in fear then and there to deliver up the thing extorted.",
+    "offense_type": "robbery",
+    "punishment_severity": "high",
+    "maximum_punishment_years": 10,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "robbery",
+      "theft",
+      "extortion",
+      "violence",
+      "fear"
+    ]
+  },
+  {
+    "section_number": "392",
+    "section_title": "Punishment for robbery",
+    "content": "Whoever commits robbery shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine; and, if the robbery be committed on the highway between sunset and sunrise, the imprisonment may be extended to fourteen years.",
+    "offense_type": "robbery",
+    "punishment_severity": "high",
+    "maximum_punishment_years": 14,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "robbery",
+      "punishment",
+      "highway",
+      "rigorous"
+    ]
+  },
+  {
+    "section_number": "395",
+    "section_title": "Punishment for dacoity",
+    "content": "Whoever commits dacoity shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+    "offense_type": "dacoity",
+    "punishment_severity": "severe",
+    "maximum_punishment_years": 999,
+    "minimum_punishment_years": 10,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "dacoity",
+      "gang robbery",
+      "punishment"
+    ]
+  },
+  {
+    "section_number": "396",
+    "section_title": "Dacoity with murder",
+    "content": "If any one of five or more persons, who are conjointly committing dacoity, commits murder in so committing dacoity, every one of those persons shall be punished with death, or imprisonment for life, or rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+    "offense_type": "dacoity",
+    "punishment_severity": "severe",
+    "maximum_punishment_years": 1000,
+    "minimum_punishment_years": 10,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "dacoity",
+      "murder",
+      "gang",
+      "death penalty"
+    ]
+  },
+  {
+    "section_number": "463",
+    "section_title": "Forgery",
+    "content": "Whoever makes any false document or false electronic record or part of a document or electronic record, with intent to cause damage or injury, to the public or to any person, or to support any claim or title, or to cause any person to part with property, or to enter into any express or implied contract, or with intent to commit fraud or that fraud may be committed, commits forgery.",
+    "offense_type": "forgery",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 2,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": false,
+    "keywords": [
+      "forgery",
+      "false document",
+      "fraud",
+      "electronic record"
+    ]
+  },
+  {
+    "section_number": "465",
+    "section_title": "Punishment for forgery",
+    "content": "Whoever commits forgery shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "offense_type": "forgery",
+    "punishment_severity": "low",
+    "maximum_punishment_years": 2,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": false,
+    "keywords": [
+      "forgery",
+      "punishment"
+    ]
+  },
+  {
+    "section_number": "468",
+    "section_title": "Forgery for purpose of cheating",
+    "content": "Whoever commits forgery, intending that the document or electronic record forged shall be used for the purpose of cheating, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "offense_type": "forgery",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 7,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "forgery",
+      "cheating",
+      "fraud",
+      "document"
+    ]
+  },
+  {
+    "section_number": "471",
+    "section_title": "Using as genuine a forged document or electronic record",
+    "content": "Whoever fraudulently or dishonestly uses as genuine any document or electronic record which he knows or has reason to believe to be a forged document or electronic record, shall be punished in the same manner as if he had forged such document or electronic record.",
+    "offense_type": "forgery",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 7,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "forgery",
+      "forged document",
+      "fraudulent",
+      "dishonest"
+    ]
+  },
+  {
+    "section_number": "441",
+    "section_title": "Criminal trespass",
+    "content": "Whoever enters into or upon property in the possession of another with intent to commit an offence or to intimidate, insult or annoy any person in possession of such property, or having lawfully entered into or upon such property, unlawfully remains there with intent thereby to intimidate, insult or annoy any such person, or with intent to commit an offence, is said to commit 'criminal trespass'.",
+    "offense_type": "trespass",
+    "punishment_severity": "low",
+    "maximum_punishment_years": 3,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": false,
+    "keywords": [
+      "trespass",
+      "property",
+      "unlawful entry",
+      "intimidate"
+    ]
+  },
+  {
+    "section_number": "447",
+    "section_title": "Punishment for criminal trespass",
+    "content": "Whoever commits criminal trespass shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five hundred rupees, or with both.",
+    "offense_type": "trespass",
+    "punishment_severity": "low",
+    "maximum_punishment_years": 0.25,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": false,
+    "keywords": [
+      "trespass",
+      "punishment"
+    ]
+  },
+  {
+    "section_number": "448",
+    "section_title": "Punishment for house-trespass",
+    "content": "Whoever commits house-trespass shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to one thousand rupees, or with both.",
+    "offense_type": "trespass",
+    "punishment_severity": "low",
+    "maximum_punishment_years": 1,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": false,
+    "keywords": [
+      "house trespass",
+      "dwelling",
+      "punishment"
+    ]
+  },
+  {
+    "section_number": "451",
+    "section_title": "House-trespass in order to commit offence punishable with imprisonment",
+    "content": "Whoever commits house-trespass in order to the committing of any offence punishable with imprisonment, shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine; and if the offence intended to be committed is theft, the term of the imprisonment may be extended to seven years.",
+    "offense_type": "trespass",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 7,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "house trespass",
+      "theft",
+      "burglary",
+      "offence"
+    ]
+  },
+  {
+    "section_number": "452",
+    "section_title": "House-trespass after preparation for hurt, assault or wrongful restraint",
+    "content": "Whoever commits house-trespass, having made preparation for causing hurt to any person or for assaulting any person, or for wrongfully restraining any person, or for putting any person in fear of hurt, or of assault, or of wrongful restraint, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "offense_type": "trespass",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 7,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "house trespass",
+      "assault",
+      "hurt",
+      "restraint"
+    ]
+  },
+  {
+    "section_number": "41",
+    "section_title": "When police may arrest without warrant",
+    "content": "Any police officer may without an order from a Magistrate and without a warrant, arrest any person who has been concerned in any cognizable offence, or against whom a reasonable complaint has been made, or credible information has been received, or a reasonable suspicion exists, of his having been so concerned.",
+    "offense_type": "procedure",
+    "punishment_severity": "unknown",
+    "maximum_punishment_years": 0,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": false,
+    "involves_fine": false,
+    "bailable": null,
+    "cognizable": null,
+    "keywords": [
+      "arrest",
+      "police",
+      "warrant",
+      "cognizable",
+      "procedure"
+    ]
+  },
+  {
+    "section_number": "436",
+    "section_title": "In what cases bail to be taken",
+    "content": "When any person other than a person accused of a non-bailable offence is arrested or detained without warrant by an officer in charge of a police station, or appears or is brought before a Court, and is prepared at any time while in the custody of such officer or at any stage of the proceeding before such Court to give bail, such person shall be released on bail.",
+    "offense_type": "procedure",
+    "punishment_severity": "unknown",
+    "maximum_punishment_years": 0,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": false,
+    "involves_fine": false,
+    "bailable": true,
+    "cognizable": null,
+    "keywords": [
+      "bail",
+      "release",
+      "custody",
+      "court",
+      "procedure"
+    ]
+  },
+  {
+    "section_number": "154",
+    "section_title": "Information in cognizable cases",
+    "content": "Every information relating to the commission of a cognizable offence, if given orally to an officer in charge of a police station, shall be reduced to writing by him or under his direction, and be read over to the informant; and every such information, whether given in writing or reduced to writing as aforesaid, shall be signed by the person giving it, and the substance thereof shall be entered in a book to be kept by such officer in such form as the State Government may prescribe in this behalf.",
+    "offense_type": "procedure",
+    "punishment_severity": "unknown",
+    "maximum_punishment_years": 0,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": false,
+    "involves_fine": false,
+    "bailable": null,
+    "cognizable": true,
+    "keywords": [
+      "FIR",
+      "first information report",
+      "police",
+      "cognizable",
+      "complaint"
+    ]
+  },
+  {
+    "section_number": "141",
+    "section_title": "Unlawful assembly",
+    "content": "An assembly of five or more persons is designated an 'unlawful assembly', if the common object of the persons composing that assembly is to commit any of the following offences: to overawe by criminal force, or show of criminal force, the Central or any State Government or Parliament or the Legislature of any State, or any public servant in the exercise of the lawful power of such public servant; or to resist the execution of any law, or of any legal process; or to commit any mischief or criminal trespass, or other offence; or by means of criminal force, or show of criminal force, to any person, to take or obtain possession of any property, or to deprive any person of the enjoyment of a right of way, or of the use of water or other incorporeal right of which he is in possession or enjoyment, or to enforce any right or supposed right; or by means of criminal force, or show of criminal force, to compel any person to do what he is not legally bound to do, or to omit to do what he is legally entitled to do.",
+    "offense_type": "public_order",
+    "punishment_severity": "low",
+    "maximum_punishment_years": 6,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": true,
+    "keywords": [
+      "unlawful assembly",
+      "riot",
+      "public order",
+      "gathering"
+    ]
+  },
+  {
+    "section_number": "143",
+    "section_title": "Punishment for unlawful assembly",
+    "content": "Whoever is a member of an unlawful assembly, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.",
+    "offense_type": "public_order",
+    "punishment_severity": "low",
+    "maximum_punishment_years": 0.5,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": true,
+    "keywords": [
+      "unlawful assembly",
+      "punishment",
+      "riot"
+    ]
+  },
+  {
+    "section_number": "147",
+    "section_title": "Punishment for rioting",
+    "content": "Whoever is guilty of rioting, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "offense_type": "public_order",
+    "punishment_severity": "low",
+    "maximum_punishment_years": 2,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": true,
+    "keywords": [
+      "rioting",
+      "riot",
+      "public disorder",
+      "violence"
+    ]
+  },
+  {
+    "section_number": "148",
+    "section_title": "Rioting, armed with deadly weapon",
+    "content": "Whoever is guilty of rioting, being armed with a deadly weapon or with anything which, used as a weapon of offence, is likely to cause death, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "offense_type": "public_order",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 3,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "rioting",
+      "armed",
+      "deadly weapon",
+      "violence"
+    ]
+  },
+  {
+    "section_number": "149",
+    "section_title": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+    "content": "If an offence is committed by any member of an unlawful assembly in prosecution of the common object of that assembly, or such as the members of that assembly knew to be likely to be committed in prosecution of that object, every person who, at the time of the committing of that offence, is a member of the same assembly, is guilty of that offence.",
+    "offense_type": "public_order",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 0,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": false,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "unlawful assembly",
+      "common object",
+      "liability",
+      "mob"
+    ]
+  },
+  {
+    "section_number": "124A",
+    "section_title": "Sedition",
+    "content": "Whoever, by words, either spoken or written, or by signs, or by visible representation, or otherwise, brings or attempts to bring into hatred or contempt, or excites or attempts to excite disaffection towards, the Government established by law shall be punished with imprisonment for life, to which fine may be added, or with imprisonment which may extend to three years, to which fine may be added, or with fine.",
+    "offense_type": "sedition",
+    "punishment_severity": "severe",
+    "maximum_punishment_years": 999,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "sedition",
+      "government",
+      "disaffection",
+      "treason"
+    ]
+  },
+  {
+    "section_number": "161",
+    "section_title": "Public servant taking gratification other than legal remuneration in respect of an official act",
+    "content": "Whoever, being, or expecting to be a public servant, accepts or obtains or agrees to accept or attempts to obtain from any person, for himself or for any other person, any gratification whatever, other than legal remuneration, as a motive or reward for doing or forbearing to do any official act or for showing or forbearing to show, in the exercise of his official functions, favour or disfavour to any person or for rendering or attempting to render any service or disservice to any person, with the Central Government or any State Government or Parliament or the Legislature of any State or with any local authority, corporation or Government company referred to in clause (c) of section 2 of the Prevention of Corruption Act, 1988, or with any public servant, whether named or otherwise, shall be punishable with imprisonment which shall be not less than six months but which may extend to five years and shall also be liable to fine.",
+    "offense_type": "corruption",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 5,
+    "minimum_punishment_years": 0.5,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "bribery",
+      "corruption",
+      "public servant",
+      "gratification"
+    ]
+  },
+  {
+    "section_number": "171E",
+    "section_title": "Punishment for bribery",
+    "content": "Whoever commits the offence of bribery shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+    "offense_type": "corruption",
+    "punishment_severity": "low",
+    "maximum_punishment_years": 1,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": false,
+    "keywords": [
+      "bribery",
+      "corruption",
+      "election",
+      "vote"
+    ]
+  },
+  {
+    "section_number": "191",
+    "section_title": "Giving false evidence",
+    "content": "Whoever, being legally bound by an oath or by an express provision of law to state the truth, or being bound by law to make a declaration upon any subject, makes any statement which is false, and which he either knows or believes to be false or does not believe to be true, is said to give false evidence.",
+    "offense_type": "perjury",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 7,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "perjury",
+      "false evidence",
+      "oath",
+      "lying",
+      "court"
+    ]
+  },
+  {
+    "section_number": "193",
+    "section_title": "Punishment for false evidence",
+    "content": "Whoever intentionally gives false evidence in any stage of a judicial proceeding, or fabricates false evidence for the purpose of being used in any stage of a judicial proceeding, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "offense_type": "perjury",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 7,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "false evidence",
+      "perjury",
+      "judicial",
+      "fabrication"
+    ]
+  },
+  {
+    "section_number": "498A",
+    "section_title": "Husband or relative of husband subjecting woman to cruelty",
+    "content": "Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine. Explanation: For the purpose of this section, 'cruelty' means any wilful conduct which is of such a nature as is likely to drive the woman to commit suicide or to cause grave injury or danger to life, limb or health (whether mental or physical) of the woman; or harassment of the woman where such harassment is with a view to coercing her or any person related to her to meet any unlawful demand for any property or valuable security or is on account of failure by her or any person related to her to meet such demand.",
+    "offense_type": "domestic_violence",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 3,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "domestic violence",
+      "cruelty",
+      "husband",
+      "wife",
+      "harassment",
+      "torture",
+      "498A",
+      "dowry",
+      "in-laws",
+      "marital",
+      "spouse",
+      "beats",
+      "mental torture",
+      "physical abuse"
+    ]
+  },
+  {
+    "section_number": "354D",
+    "section_title": "Stalking",
+    "content": "Any man who follows a woman and contacts, or attempts to contact such woman to foster personal interaction repeatedly despite a clear indication of disinterest by such woman; or monitors the use by a woman of the internet, email or any other form of electronic communication, commits the offence of stalking. Shall be punished on first conviction with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine; and be punished on a second or subsequent conviction, with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine.",
+    "offense_type": "stalking",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 5,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": true,
+    "keywords": [
+      "stalking",
+      "following",
+      "harassment",
+      "woman",
+      "monitoring",
+      "354D",
+      "repeated contact",
+      "unwanted attention",
+      "cyber stalking",
+      "online harassment",
+      "tracking"
+    ]
+  },
+  {
+    "section_number": "354A",
+    "section_title": "Sexual harassment and punishment for sexual harassment",
+    "content": "A man committing any of the following acts: physical contact and advances involving unwelcome and explicit sexual overtures; or a demand or request for sexual favours; or showing pornography against the will of a woman; or making sexually coloured remarks, shall be guilty of the offence of sexual harassment. Shall be punished with rigorous imprisonment for a term which may extend to three years, or with fine, or with both.",
+    "offense_type": "sexual_harassment",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 3,
+    "minimum_punishment_years": 1,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": true,
+    "keywords": [
+      "sexual harassment",
+      "unwelcome advances",
+      "woman",
+      "workplace",
+      "354A",
+      "inappropriate",
+      "sexual remarks",
+      "touching",
+      "pornography",
+      "sexual favours"
+    ]
+  },
+  {
+    "section_number": "354B",
+    "section_title": "Assault or use of criminal force to woman with intent to disrobe",
+    "content": "Any man who assaults or uses criminal force to any woman or abets such act with the intention of disrobing or compelling her to be naked, shall be punished with imprisonment of either description for a term which shall not be less than three years but which may extend to seven years, and shall also be liable to fine.",
+    "offense_type": "sexual",
+    "punishment_severity": "high",
+    "maximum_punishment_years": 7,
+    "minimum_punishment_years": 3,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "disrobe",
+      "assault",
+      "woman",
+      "naked",
+      "354B",
+      "force",
+      "clothes",
+      "stripping"
+    ]
+  },
+  {
+    "section_number": "354C",
+    "section_title": "Voyeurism",
+    "content": "Any man who watches, or captures the image of a woman engaging in a private act in circumstances where she would usually have the expectation of not being observed either by the perpetrator or by any other person at the behest of the perpetrator or disseminates such image shall be punished on first conviction with imprisonment of either description for a term which shall not be less than one year, but which may extend to three years, and shall also be liable to fine, and be punished on a second or subsequent conviction, with imprisonment of either description for a term which shall not be less than three years, but which may extend to seven years, and shall also be liable to fine.",
+    "offense_type": "sexual",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 7,
+    "minimum_punishment_years": 1,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": true,
+    "keywords": [
+      "voyeurism",
+      "privacy",
+      "watching",
+      "image",
+      "woman",
+      "354C",
+      "peeping",
+      "recording",
+      "private",
+      "camera",
+      "video"
+    ]
+  },
+  {
+    "section_number": "66C",
+    "section_title": "Punishment for identity theft",
+    "content": "Whoever, fraudulently or dishonestly make use of the electronic signature, password or any other unique identification feature of any other person, shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine which may extend to rupees one lakh.",
+    "offense_type": "cyber_crime",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 3,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": true,
+    "keywords": [
+      "identity theft",
+      "cyber crime",
+      "electronic",
+      "password",
+      "66C",
+      "hacking",
+      "fake profile",
+      "impersonation",
+      "online fraud",
+      "account theft"
+    ]
+  },
+  {
+    "section_number": "66D",
+    "section_title": "Punishment for cheating by personation by using computer resource",
+    "content": "Whoever, by means of any communication device or computer resource cheats by personation, shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine which may extend to one lakh rupees.",
+    "offense_type": "cyber_crime",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 3,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": true,
+    "keywords": [
+      "cheating",
+      "personation",
+      "cyber crime",
+      "computer",
+      "66D",
+      "fake identity",
+      "online fraud",
+      "impersonation",
+      "phishing"
+    ]
+  },
+  {
+    "section_number": "66E",
+    "section_title": "Punishment for violation of privacy",
+    "content": "Whoever, intentionally or knowingly captures, publishes or transmits the image of a private area of any person without his or her consent, under circumstances violating the privacy of that person, shall be punished with imprisonment which may extend to three years or with fine not exceeding two lakh rupees, or with both.",
+    "offense_type": "cyber_crime",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 3,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": true,
+    "keywords": [
+      "privacy violation",
+      "cyber crime",
+      "image",
+      "66E",
+      "private area",
+      "consent",
+      "publishing",
+      "intimate images",
+      "revenge porn"
+    ]
+  },
+  {
+    "section_number": "67",
+    "section_title": "Punishment for publishing or transmitting obscene material in electronic form",
+    "content": "Whoever publishes or transmits or causes to be published or transmitted in the electronic form, any material which is lascivious or appeals to the prurient interest or if its effect is such as to tend to deprave and corrupt persons who are likely, having regard to all relevant circumstances, to read, see or hear the matter contained or embodied in it, shall be punished on first conviction with imprisonment of either description for a term which may extend to three years and with fine which may extend to five lakh rupees and in the event of second or subsequent conviction with imprisonment of either description for a term which may extend to five years and also with fine which may extend to ten lakh rupees.",
+    "offense_type": "cyber_crime",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 5,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": true,
+    "keywords": [
+      "obscene material",
+      "cyber crime",
+      "electronic",
+      "67",
+      "pornography",
+      "lascivious",
+      "publishing",
+      "transmitting",
+      "vulgar content"
+    ]
+  },
+  {
+    "section_number": "67A",
+    "section_title": "Punishment for publishing or transmitting of material containing sexually explicit act, etc., in electronic form",
+    "content": "Whoever publishes or transmits or causes to be published or transmitted in the electronic form any material which contains sexually explicit act or conduct shall be punished on first conviction with imprisonment of either description for a term which may extend to five years and with fine which may extend to ten lakh rupees and in the event of second or subsequent conviction with imprisonment of either description for a term which may extend to seven years and also with fine which may extend to ten lakh rupees.",
+    "offense_type": "cyber_crime",
+    "punishment_severity": "high",
+    "maximum_punishment_years": 7,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": true,
+    "cognizable": true,
+    "keywords": [
+      "sexually explicit",
+      "cyber crime",
+      "electronic",
+      "67A",
+      "pornography",
+      "sexual content",
+      "publishing",
+      "transmitting"
+    ]
+  },
+  {
+    "section_number": "67B",
+    "section_title": "Punishment for publishing or transmitting of material depicting children in sexually explicit act, etc., in electronic form",
+    "content": "Whoever publishes or transmits or causes to be published or transmitted material in any electronic form which depicts children engaged in sexually explicit act or conduct or creates text or digital images, collects, seeks, browses, downloads, advertises, promotes, exchanges or distributes material in any electronic form depicting children in obscene or indecent or sexually explicit manner or cultivates, entices or induces children to online relationship with one or more children for and on sexually explicit act or in a manner that may offend a reasonable adult on the computer resource or facilitates abusing children online or records in any electronic form own abuse or that of others pertaining to sexually explicit act with children shall be punished on first conviction with imprisonment of either description for a term which may extend to five years and with fine which may extend to ten lakh rupees and in the event of second or subsequent conviction with imprisonment of either description for a term which may extend to seven years and also with fine which may extend to ten lakh rupees.",
+    "offense_type": "child_abuse",
+    "punishment_severity": "severe",
+    "maximum_punishment_years": 7,
+    "minimum_punishment_years": 5,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "child pornography",
+      "child abuse",
+      "cyber crime",
+      "67B",
+      "children",
+      "sexually explicit",
+      "minor",
+      "POCSO",
+      "pedophilia",
+      "child exploitation"
+    ]
+  },
+  {
+    "section_number": "317",
+    "section_title": "Exposure and abandonment of child under twelve years, by parent or person having care of it",
+    "content": "Whoever being the father or mother of a child under the age of twelve years, or having the care of such child, shall expose or leave such child in any place with the intention of wholly abandoning such child, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+    "offense_type": "child_abuse",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 7,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "child abandonment",
+      "child abuse",
+      "317",
+      "exposure",
+      "neglect",
+      "parent",
+      "minor",
+      "abandoning child"
+    ]
+  },
+  {
+    "section_number": "23",
+    "section_title": "Child marriage",
+    "content": "Whoever, being a male adult above eighteen years of age, contracts a marriage with a person who, being a female, is under eighteen years of age shall be punishable with rigorous imprisonment which may extend to two years or with fine which may extend to one lakh rupees or with both.",
+    "offense_type": "child_abuse",
+    "punishment_severity": "medium",
+    "maximum_punishment_years": 2,
+    "minimum_punishment_years": 0,
+    "involves_imprisonment": true,
+    "involves_fine": true,
+    "bailable": false,
+    "cognizable": true,
+    "keywords": [
+      "child marriage",
+      "minor",
+      "underage",
+      "marriage",
+      "18 years",
+      "child abuse"
+    ]
+  }
+]
