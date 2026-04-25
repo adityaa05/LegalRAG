@@ -1,0 +1,9 @@
+{
+  "total_documents": 0,
+  "total_chunks": 0,
+  "total_tokens": 0,
+  "chunk_size_target": 500,
+  "overlap_tokens": 50,
+  "processed_at": "2025-10-27T21:29:59.141579",
+  "results": []
+}

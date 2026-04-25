@@ -1,0 +1,18 @@
+{
+  "total_documents": 1,
+  "total_chunks_embedded": 0,
+  "embedding_dimension": 384,
+  "total_embedding_size_mb": 0.0,
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "processed_at": "2025-10-27T21:30:04.876596",
+  "results": [
+    {
+      "document_type": "all_legal",
+      "total_chunks": 0,
+      "embedding_dimension": 384,
+      "embedding_size_mb": 0.0,
+      "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+      "output_file": "all_legal_embedded.json"
+    }
+  ]
+}

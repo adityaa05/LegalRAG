@@ -1,0 +1,470 @@
+{
+  "test_date": "2025-10-27T23:25:24.919777",
+  "api_url": "http://localhost:8002",
+  "total_tests": 8,
+  "passed_tests": 0,
+  "pass_rate": 0.0,
+  "metrics": {
+    "section_accuracy": 0.4175,
+    "act_accuracy": 0.8125,
+    "severity_accuracy": 25.0,
+    "avg_similarity": 0.468125,
+    "keyword_coverage": 0.48
+  },
+  "readiness_score": 22.7125,
+  "status": "\u2717 NOT READY FOR COMMERCIAL USE",
+  "detailed_results": [
+    {
+      "test_id": "accident_death_01",
+      "situation": "I was driving in my lane when a person on scooty came from intersection and crashed into me. He is severely injured and may die.",
+      "evaluation": {
+        "passed": false,
+        "scores": {
+          "section_accuracy": 0.5,
+          "act_accuracy": 0.5,
+          "severity_correct": true,
+          "avg_similarity": 0.426,
+          "keyword_coverage": 0.25,
+          "relevance_pass": false
+        },
+        "details": {
+          "expected_sections": [
+            "304A",
+            "279",
+            "337",
+            "338"
+          ],
+          "retrieved_sections": [
+            "279",
+            "337",
+            "396",
+            "304",
+            "354"
+          ],
+          "expected_acts": [
+            "IPC",
+            "MOTOR_VEHICLES_ACT"
+          ],
+          "retrieved_acts": [
+            "IPC"
+          ],
+          "expected_severity": [
+            "YELLOW",
+            "RED"
+          ],
+          "actual_severity": "RED",
+          "top_3_laws": [
+            {
+              "act": "IPC",
+              "section": "279",
+              "similarity": 0.485
+            },
+            {
+              "act": "IPC",
+              "section": "337",
+              "similarity": 0.459
+            },
+            {
+              "act": "IPC",
+              "section": "396",
+              "similarity": 0.442
+            }
+          ]
+        }
+      }
+    },
+    {
+      "test_id": "theft_01",
+      "situation": "Someone stole my phone from my pocket in a crowded market",
+      "evaluation": {
+        "passed": false,
+        "scores": {
+          "section_accuracy": 0.0,
+          "act_accuracy": 1.0,
+          "severity_correct": false,
+          "avg_similarity": 0.56,
+          "keyword_coverage": 0.67,
+          "relevance_pass": false
+        },
+        "details": {
+          "expected_sections": [
+            "379",
+            "380"
+          ],
+          "retrieved_sections": [
+            "337",
+            "171E",
+            "323",
+            "395",
+            "506"
+          ],
+          "expected_acts": [
+            "IPC"
+          ],
+          "retrieved_acts": [
+            "IPC"
+          ],
+          "expected_severity": [
+            "YELLOW",
+            "GREEN"
+          ],
+          "actual_severity": "RED",
+          "top_3_laws": [
+            {
+              "act": "IPC",
+              "section": "337",
+              "similarity": 0.643
+            },
+            {
+              "act": "IPC",
+              "section": "171E",
+              "similarity": 0.628
+            },
+            {
+              "act": "IPC",
+              "section": "323",
+              "similarity": 0.615
+            }
+          ]
+        }
+      }
+    },
+    {
+      "test_id": "assault_01",
+      "situation": "My neighbor attacked me with a stick and broke my arm",
+      "evaluation": {
+        "passed": false,
+        "scores": {
+          "section_accuracy": 0.67,
+          "act_accuracy": 1.0,
+          "severity_correct": false,
+          "avg_similarity": 0.379,
+          "keyword_coverage": 1.0,
+          "relevance_pass": false
+        },
+        "details": {
+          "expected_sections": [
+            "323",
+            "324",
+            "325"
+          ],
+          "retrieved_sections": [
+            "376",
+            "506",
+            "307",
+            "324",
+            "337"
+          ],
+          "expected_acts": [
+            "IPC"
+          ],
+          "retrieved_acts": [
+            "IPC"
+          ],
+          "expected_severity": [
+            "YELLOW"
+          ],
+          "actual_severity": "RED",
+          "top_3_laws": [
+            {
+              "act": "IPC",
+              "section": "376",
+              "similarity": 0.525
+            },
+            {
+              "act": "IPC",
+              "section": "506",
+              "similarity": 0.517
+            },
+            {
+              "act": "IPC",
+              "section": "307",
+              "similarity": 0.486
+            }
+          ]
+        }
+      }
+    },
+    {
+      "test_id": "defamation_01",
+      "situation": "Someone posted false accusations about me on social media saying I am a thief",
+      "evaluation": {
+        "passed": false,
+        "scores": {
+          "section_accuracy": 0.5,
+          "act_accuracy": 1.0,
+          "severity_correct": false,
+          "avg_similarity": 0.553,
+          "keyword_coverage": 0.67,
+          "relevance_pass": true
+        },
+        "details": {
+          "expected_sections": [
+            "499",
+            "500"
+          ],
+          "retrieved_sections": [
+            "337",
+            "171E",
+            "323",
+            "395",
+            "506"
+          ],
+          "expected_acts": [
+            "IPC"
+          ],
+          "retrieved_acts": [
+            "IPC"
+          ],
+          "expected_severity": [
+            "GREEN",
+            "YELLOW"
+          ],
+          "actual_severity": "RED",
+          "top_3_laws": [
+            {
+              "act": "IPC",
+              "section": "337",
+              "similarity": 0.643
+            },
+            {
+              "act": "IPC",
+              "section": "171E",
+              "similarity": 0.628
+            },
+            {
+              "act": "IPC",
+              "section": "323",
+              "similarity": 0.615
+            }
+          ]
+        }
+      }
+    },
+    {
+      "test_id": "drunk_driving_01",
+      "situation": "I was caught driving under influence of alcohol",
+      "evaluation": {
+        "passed": false,
+        "scores": {
+          "section_accuracy": 1.0,
+          "act_accuracy": 0.5,
+          "severity_correct": false,
+          "avg_similarity": 0.425,
+          "keyword_coverage": 0.75,
+          "relevance_pass": false
+        },
+        "details": {
+          "expected_sections": [
+            "185",
+            "184"
+          ],
+          "retrieved_sections": [
+            "185",
+            "304A",
+            "304",
+            "395",
+            "143"
+          ],
+          "expected_acts": [
+            "MOTOR_VEHICLES_ACT",
+            "IPC"
+          ],
+          "retrieved_acts": [
+            "IPC"
+          ],
+          "expected_severity": [
+            "GREEN",
+            "YELLOW"
+          ],
+          "actual_severity": "RED",
+          "top_3_laws": [
+            {
+              "act": "IPC",
+              "section": "185",
+              "similarity": 0.529
+            },
+            {
+              "act": "IPC",
+              "section": "304A",
+              "similarity": 0.509
+            },
+            {
+              "act": "IPC",
+              "section": "304",
+              "similarity": 0.488
+            }
+          ]
+        }
+      }
+    },
+    {
+      "test_id": "murder_intentional_01",
+      "situation": "I intentionally killed someone who was threatening my family",
+      "evaluation": {
+        "passed": false,
+        "scores": {
+          "section_accuracy": 0.67,
+          "act_accuracy": 1.0,
+          "severity_correct": true,
+          "avg_similarity": 0.454,
+          "keyword_coverage": 0.5,
+          "relevance_pass": false
+        },
+        "details": {
+          "expected_sections": [
+            "302",
+            "300",
+            "100"
+          ],
+          "retrieved_sections": [
+            "323",
+            "337",
+            "304A",
+            "302",
+            "307"
+          ],
+          "expected_acts": [
+            "IPC"
+          ],
+          "retrieved_acts": [
+            "IPC"
+          ],
+          "expected_severity": [
+            "RED"
+          ],
+          "actual_severity": "RED",
+          "top_3_laws": [
+            {
+              "act": "IPC",
+              "section": "323",
+              "similarity": 0.501
+            },
+            {
+              "act": "IPC",
+              "section": "337",
+              "similarity": 0.493
+            },
+            {
+              "act": "IPC",
+              "section": "304A",
+              "similarity": 0.493
+            }
+          ]
+        }
+      }
+    },
+    {
+      "test_id": "property_damage_01",
+      "situation": "My neighbor's tree fell on my car and damaged it",
+      "evaluation": {
+        "passed": false,
+        "scores": {
+          "section_accuracy": 0.0,
+          "act_accuracy": 0.5,
+          "severity_correct": false,
+          "avg_similarity": 0.398,
+          "keyword_coverage": 0.0,
+          "relevance_pass": false
+        },
+        "details": {
+          "expected_sections": [
+            "425",
+            "426"
+          ],
+          "retrieved_sections": [
+            "279",
+            "184",
+            "185",
+            "171E",
+            "448"
+          ],
+          "expected_acts": [
+            "IPC",
+            "CPC"
+          ],
+          "retrieved_acts": [
+            "IPC"
+          ],
+          "expected_severity": [
+            "GREEN",
+            "YELLOW"
+          ],
+          "actual_severity": "RED",
+          "top_3_laws": [
+            {
+              "act": "IPC",
+              "section": "279",
+              "similarity": 0.558
+            },
+            {
+              "act": "IPC",
+              "section": "184",
+              "similarity": 0.52
+            },
+            {
+              "act": "IPC",
+              "section": "185",
+              "similarity": 0.449
+            }
+          ]
+        }
+      }
+    },
+    {
+      "test_id": "cheating_01",
+      "situation": "Someone sold me a fake gold chain claiming it was real",
+      "evaluation": {
+        "passed": false,
+        "scores": {
+          "section_accuracy": 0.0,
+          "act_accuracy": 1.0,
+          "severity_correct": false,
+          "avg_similarity": 0.55,
+          "keyword_coverage": 0.0,
+          "relevance_pass": false
+        },
+        "details": {
+          "expected_sections": [
+            "420",
+            "415"
+          ],
+          "retrieved_sections": [
+            "337",
+            "171E",
+            "323",
+            "395",
+            "506"
+          ],
+          "expected_acts": [
+            "IPC"
+          ],
+          "retrieved_acts": [
+            "IPC"
+          ],
+          "expected_severity": [
+            "YELLOW"
+          ],
+          "actual_severity": "RED",
+          "top_3_laws": [
+            {
+              "act": "IPC",
+              "section": "337",
+              "similarity": 0.643
+            },
+            {
+              "act": "IPC",
+              "section": "171E",
+              "similarity": 0.628
+            },
+            {
+              "act": "IPC",
+              "section": "323",
+              "similarity": 0.615
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

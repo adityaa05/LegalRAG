@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Duru+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:wght@400&display=swap');
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+  position: relative;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#__next {
+  width: 100vw;
+  min-height: 100vh;
+  position: relative;
+}
+
+/* Ensure canvas fills entire viewport */
+canvas {
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+/* Custom font classes */
+.font-ghea-narek {
+  font-family: "GHEA Narek Serif Heavy", "Inter", sans-serif;
+  font-weight: 900;
+}
+
+.font-almarai {
+  font-family: "Almarai", sans-serif;
+}
+
+.font-duru-sans {
+  font-family: "Duru Sans", sans-serif;
+}
+
+.font-dm-serif {
+  font-family: "DM Serif Text", serif;
+  font-weight: 400;
+}
+
+/* Hide scrollbar */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Mobile responsive improvements */
+@media (max-width: 640px) {
+  .hero-title {
+    font-size: clamp(1.2rem, 8vw, 2.5rem) !important;
+  }
+  
+  .hero-subtitle {
+    font-size: clamp(0.8rem, 4vw, 1.2rem) !important;
+  }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .dark\:bg-black\/20 {
+    background-color: rgba(0, 0, 0, 0.2);
+  }
+  
+  .dark\:border-white\/10 {
+    border-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  .dark\:text-blue-400 {
+    color: #60a5fa;
+  }
+  
+  .dark\:hover\:bg-red-500:hover {
+    background-color: #ef4444;
+  }
+}

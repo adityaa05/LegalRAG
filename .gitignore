@@ -1,0 +1,50 @@
+# Environments
+/legal-rag/legalrag/
+/virenrag/
+/venv/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Dependencies
+node_modules/
+/frontend/node_modules/
+package-lock.json
+yarn.lock
+
+# Data & Databases (Large files)
+/legal-rag/data/chroma_db/
+/legal-rag/data/chroma_db_*/
+/legal-rag/data/processed/
+/legal-rag/data/chunks/
+/legal-rag/data/embeddings/
+/data/processed/
+/data/raw/
+*.pdf
+# Only ignore large data JSON files, not config files
+/legal-rag/data/**/*.json
+/data/**/*.json
+!package.json
+!tsconfig.json
+!legal-rag/requirements.txt
+!legal-rag/rag_quality_report.json
+
+# Next.js
+/frontend/.next/
+/frontend/out/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+/frontend/build/
+dist/
+build/
